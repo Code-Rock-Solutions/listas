@@ -16,19 +16,6 @@ int main(){
 	printf("O  numero anterior é: %d \n", anterior);
 	printf("O proximo numero é: %d \n ", proximo);
 	 
-	 
-	 
-	
-	
-	printf("Me diga um numero: \n ");
-	scanf("%d", &numero);
-
-	
-	printf("antecessor: %d , sucessor: %d", numero- 1 , numero + 1);
-	
-
-		
-
 /*	printf("Escreva a sua idade \n");
 	scanf("%d", &idade);
 
