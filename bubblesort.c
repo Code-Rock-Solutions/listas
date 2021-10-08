@@ -29,6 +29,9 @@ void bubbleSort(int *vet, int n){
 int main(){
 	int n = 8;
     int vet[8] = {10,7,6,55,9,3,5,2};
+    
+    /*int n = 4 ;
+    int vet[4] = {6,9,3,5};*/
     bubbleSort(vet, n);
     
     printf ("formatado \n");
